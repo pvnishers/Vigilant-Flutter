@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007578909146",
+    "project_id": "vigilantcore-6943e",
+    "storage_bucket": "vigilantcore-6943e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007578909146:android:9a4dac25adf685a0bf98e3",
+        "android_client_info": {
+          "package_name": "Vigilant.Core"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIxFqFzJAp2RCUiGCcuWcoDCQ7tjms0JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
